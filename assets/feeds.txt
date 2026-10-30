@@ -1,0 +1,365 @@
+# cat|name|url|filter    cat: n=news c=crypto v=vulns/advisories r=research    filter=1 keeps only security-related headlines
+n|BleepingComputer|https://www.bleepingcomputer.com/feed/|0
+n|The Hacker News|https://feeds.feedburner.com/TheHackersNews|0
+n|Krebs on Security|https://krebsonsecurity.com/feed/|0
+n|SecurityWeek|https://feeds.feedburner.com/securityweek|0
+n|Dark Reading|https://www.darkreading.com/rss.xml|0
+n|Ars Technica Security|https://arstechnica.com/security/feed/|0
+n|Wired Security|https://www.wired.com/feed/category/security/latest/rss|0
+n|The Register Security|https://www.theregister.com/security/headlines.atom|0
+n|Schneier on Security|https://www.schneier.com/feed/atom/|0
+n|Graham Cluley|https://grahamcluley.com/feed/|0
+n|Infosecurity Magazine|https://www.infosecurity-magazine.com/rss/news/|0
+n|Infosecurity Vulnerabilities|https://www.infosecurity-magazine.com/rss/vulnerabilities/|0
+n|SC Media|https://www.scmagazine.com/feed|0
+n|SC Media UK|https://www.scmagazineuk.com/rss.xml|0
+n|CSO Online|https://www.csoonline.com/feed|0
+n|HackRead|https://www.hackread.com/feed/|0
+n|Security Affairs|https://securityaffairs.com/feed|0
+n|Help Net Security|https://www.helpnetsecurity.com/feed/|0
+n|CyberScoop|https://cyberscoop.com/feed/|0
+n|The Record|https://therecord.media/feed|0
+n|Recorded Future News|https://therecord.media/feed|0
+n|TechCrunch Security|https://techcrunch.com/category/security/feed/|0
+n|DataBreaches.net|https://databreaches.net/feed/|0
+n|Security Boulevard|https://securityboulevard.com/feed/|0
+n|GBHackers|https://gbhackers.com/feed/|0
+n|Cyber Security News|https://cybersecuritynews.com/feed/|0
+n|Latest Hacking News|https://latesthackingnews.com/feed/|0
+n|Cyber Defense Magazine|https://www.cyberdefensemagazine.com/feed/|0
+n|Heimdal Security|https://heimdalsecurity.com/blog/feed/|0
+n|The Cyber Express|https://thecyberexpress.com/feed/|0
+n|SecurityOnline|https://securityonline.info/feed/|0
+n|Cybersecurity Insiders|https://www.cybersecurity-insiders.com/feed/|0
+n|Cybersecurity Dive|https://www.cybersecuritydive.com/feeds/news/|0
+n|Industrial Cyber|https://industrialcyber.co/feed/|0
+n|HIPAA Journal|https://www.hipaajournal.com/feed/|0
+n|Risky Business News|https://risky.biz/feeds/risky-business-news/|0
+n|404 Media|https://www.404media.co/rss/|1
+n|Hackaday|https://hackaday.com/blog/feed/|1
+n|Darknet Diaries|https://feeds.megaphone.fm/darknetdiaries|0
+n|Heise Security|https://www.heise.de/security/feed.xml|0
+n|Security.nl|https://www.security.nl/rss/headlines.xml|0
+n|ComputerWeekly Security|https://www.computerweekly.com/rss/IT-security.xml|0
+n|ZDNet Security|https://www.zdnet.com/topic/security/rss.xml|0
+n|ITPro Security|https://www.itpro.com/feeds/tag/security|0
+n|TechRadar|https://www.techradar.com/feeds/articletype/news|1
+n|Ars Technica|https://feeds.arstechnica.com/arstechnica/index|1
+n|The Verge|https://www.theverge.com/rss/index.xml|1
+n|TechCrunch|https://techcrunch.com/feed/|1
+n|Engadget|https://www.engadget.com/rss.xml|1
+n|Wired|https://www.wired.com/feed/rss|1
+n|MIT Technology Review|https://www.technologyreview.com/feed/|1
+n|Techmeme|https://www.techmeme.com/feed.xml|1
+n|BBC Technology|https://feeds.bbci.co.uk/news/technology/rss.xml|1
+n|The Guardian Cybersecurity|https://www.theguardian.com/technology/data-computer-security/rss|0
+n|NYT Technology|https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml|1
+n|Slashdot|https://rss.slashdot.org/Slashdot/slashdotMain|1
+n|Lobsters Security|https://lobste.rs/t/security.rss|0
+n|Hacker News security|https://hnrss.org/newest?q=vulnerability+OR+exploit+OR+breach+OR+hacked+OR+CVE&points=30|0
+n|Reddit r/netsec|https://www.reddit.com/r/netsec/.rss|0
+n|Reddit r/cybersecurity|https://www.reddit.com/r/cybersecurity/.rss|0
+n|Reddit r/blueteamsec|https://www.reddit.com/r/blueteamsec/.rss|0
+n|Reddit r/ReverseEngineering|https://www.reddit.com/r/ReverseEngineering/.rss|0
+n|Reddit r/Malware|https://www.reddit.com/r/Malware/.rss|0
+n|Reddit r/AskNetsec|https://www.reddit.com/r/AskNetsec/.rss|0
+n|Reddit r/hacking|https://www.reddit.com/r/hacking/.rss|0
+n|Reddit r/androidsecurity|https://www.reddit.com/r/androidsecurity/.rss|0
+n|Reddit r/ExploitDev|https://www.reddit.com/r/ExploitDev/.rss|0
+n|Reddit r/privacy|https://www.reddit.com/r/privacy/.rss|1
+n|Reddit r/technology|https://www.reddit.com/r/technology/.rss|1
+n|Techweez Kenya|https://techweez.com/feed/|1
+n|TechCabal|https://techcabal.com/feed/|1
+n|Disrupt Africa|https://disrupt-africa.com/feed/|1
+n|IT News Africa|https://www.itnewsafrica.com/feed/|1
+n|MyBroadband Security|https://mybroadband.co.za/news/security/feed|0
+n|Hackers Online Club|https://www.hackersonlineclub.com/feed/|0
+n|PCMag Security|https://www.pcmag.com/feeds/rss/security|0
+n|Tom's Hardware|https://www.tomshardware.com/feeds/all|1
+n|Android Authority|https://www.androidauthority.com/feed/|1
+n|9to5Google|https://9to5google.com/feed/|1
+n|XDA Developers|https://www.xda-developers.com/feed/|1
+n|Android Police|https://www.androidpolice.com/feed/|1
+n|9to5Mac|https://9to5mac.com/feed/|1
+n|MacRumors|https://feeds.macrumors.com/MacRumors-All|1
+n|Phoronix|https://www.phoronix.com/rss.php|1
+n|LWN.net|https://lwn.net/headlines/rss|1
+n|Cyble Blog|https://cyble.com/feed/|0
+n|Flashpoint|https://flashpoint.io/feed/|0
+n|Cybercrime Magazine|https://cybersecurityventures.com/feed/|0
+n|Dark Reading Threat Intel|https://www.darkreading.com/rss/threat-intelligence.xml|0
+n|SecurityWeek Malware|https://www.securityweek.com/category/malware-cyber-threats/feed/|0
+n|CyberSecurity Hub|https://www.cshub.com/rss/articles|0
+n|Techopedia Security|https://www.techopedia.com/feed|1
+n|IT Security Guru|https://www.itsecurityguru.org/feed/|0
+n|Information Security Buzz|https://informationsecuritybuzz.com/feed/|0
+n|Cybernews|https://cybernews.com/feed/|0
+n|Cybernews Security|https://cybernews.com/security/feed/|0
+n|TechTarget SearchSecurity|https://www.techtarget.com/searchsecurity/rss/Security-Wire.xml|0
+n|Dark Web Informer|https://darkwebinformer.com/rss/|0
+n|The Cybersecurity Times|https://thecybersecuritytimes.com/feed/|0
+n|Cyber Magazine|https://cybermagazine.com/rss|0
+n|Silicon UK Security|https://www.silicon.co.uk/security/feed|0
+n|SiliconANGLE Security|https://siliconangle.com/category/security/feed/|0
+n|VentureBeat Security|https://venturebeat.com/category/security/feed/|0
+n|Tech Monitor|https://techmonitor.ai/feed|1
+n|Digital Trends|https://www.digitaltrends.com/feed/|1
+n|Gizmodo|https://gizmodo.com/rss|1
+n|Lifehacker|https://lifehacker.com/feed/rss|1
+n|CNET|https://www.cnet.com/rss/news/|1
+n|PCWorld|https://www.pcworld.com/feed|1
+n|ExtremeTech|https://www.extremetech.com/feed|1
+n|Neowin|https://www.neowin.net/news/rss/|1
+n|BetaNews|https://betanews.com/feed/|1
+n|BGR|https://bgr.com/feed/|1
+n|The Next Web|https://thenextweb.com/feed|1
+n|Mashable|https://mashable.com/feeds/rss/all|1
+n|Fast Company Tech|https://www.fastcompany.com/technology/rss|1
+n|Washington Post Tech|https://feeds.washingtonpost.com/rss/business/technology|1
+n|Al Jazeera|https://www.aljazeera.com/xml/rss/all.xml|1
+n|Sky News Tech|https://feeds.skynews.com/feeds/rss/technology.xml|1
+n|NPR Technology|https://feeds.npr.org/1019/rss.xml|1
+n|CBS News Tech|https://www.cbsnews.com/latest/rss/technology|1
+n|Independent Tech|https://www.independent.co.uk/tech/rss|1
+n|Telegraph Tech|https://www.telegraph.co.uk/technology/rss.xml|1
+n|The Hindu Tech|https://www.thehindu.com/sci-tech/technology/feeder/default.rss|1
+n|Times of India Tech|https://timesofindia.indiatimes.com/rssfeeds/66949542.cms|1
+n|ABC News Tech|https://abcnews.go.com/abcnews/technologyheadlines|1
+n|InfoWorld Security|https://www.infoworld.com/category/security/index.rss|0
+n|Computerworld Security|https://www.computerworld.com/category/security/feed/|0
+n|Network World Security|https://www.networkworld.com/category/security/feed/|0
+n|The Stack|https://www.thestack.technology/rss/|1
+n|ISACA Now|https://www.isaca.org/rss/news|0
+n|Dark Reading Vulnerabilities|https://www.darkreading.com/rss/vulnerabilities-threats.xml|0
+n|CSO Online Threats|https://www.csoonline.com/category/cyber-attacks-extortion/feed/|0
+n|BankInfoSecurity|https://www.bankinfosecurity.com/rss|0
+n|GovInfoSecurity|https://www.govinfosecurity.com/rss|0
+n|Digital Health Security|https://www.healthcareinfosecurity.com/rss|0
+n|Schneier Essays|https://www.schneier.com/blog/atom.xml|0
+n|Troy Hunt|https://www.troyhunt.com/rss/|0
+n|Malware Unicorn|https://malwareunicorn.org/feed.xml|0
+n|SANS Blog|https://www.sans.org/blog/feed|0
+n|DevSecOps Now|https://devsecopsnow.io/feed/|1
+n|The New Stack Security|https://thenewstack.io/category/security/feed/|0
+n|Register Cybersecurity|https://www.theregister.com/security/rss|0
+n|Heise IT News|https://www.heise.de/rss/heise-atom.xml|1
+n|Golem Security|https://www.golem.de/specials/security/rss.xml|0
+n|Bitport|https://bitport.hu/rss/hirek|1
+n|Security Magazine|https://www.securitymagazine.com/rss/topic/2237-cyber-security|0
+n|CyberRisk Alliance|https://www.cyberscoop.com/feed/|0
+n|Threatpost|https://threatpost.com/feed/|0
+n|CSO Australia|https://www.cso.com.au/rss/|0
+n|ITNews Australia Security|https://www.itnews.com.au/RSS/rss.ashx|0
+n|The Register APAC|https://www.theregister.com/apac/headlines.atom|1
+n|Tech in Asia|https://www.techinasia.com/feed|1
+n|Inc42 Security|https://inc42.com/feed/|1
+n|The Daily Swig|https://portswigger.net/daily-swig/rss|0
+n|BleepingComputer Podcasts|https://www.bleepingcomputer.com/feed/|0
+c|Rekt News|https://rekt.news/rss.xml|0
+c|The Block|https://www.theblock.co/rss.xml|1
+c|CoinDesk|https://www.coindesk.com/arc/outboundfeeds/rss/|1
+c|Cointelegraph|https://cointelegraph.com/rss|1
+c|Decrypt|https://decrypt.co/feed|1
+c|Bitcoin Magazine|https://bitcoinmagazine.com/feed|1
+c|CryptoSlate|https://cryptoslate.com/feed/|1
+c|The Defiant|https://thedefiant.io/feed|1
+c|BeInCrypto|https://beincrypto.com/feed/|1
+c|CryptoPotato|https://cryptopotato.com/feed/|1
+c|NewsBTC|https://www.newsbtc.com/feed/|1
+c|U.Today|https://u.today/rss|1
+c|Crypto Briefing|https://cryptobriefing.com/feed/|1
+c|Bitcoinist|https://bitcoinist.com/feed/|1
+c|AMBCrypto|https://ambcrypto.com/feed/|1
+c|CryptoNews|https://cryptonews.com/news/feed/|1
+c|Blockworks|https://blockworks.co/feed|1
+c|DL News|https://www.dlnews.com/arc/outboundfeeds/rss/|1
+c|CoinGape|https://coingape.com/feed/|1
+c|Coinpedia|https://coinpedia.org/feed/|1
+c|The Crypto Basic|https://thecryptobasic.com/feed/|1
+c|CCN|https://www.ccn.com/feed/|1
+c|Bitcoin.com News|https://news.bitcoin.com/feed/|1
+c|CoinJournal|https://coinjournal.net/feed/|1
+c|Crypto Daily|https://cryptodaily.io/feed|1
+c|ZyCrypto|https://zycrypto.com/feed/|1
+c|Protos|https://protos.com/feed/|1
+c|Unchained Crypto|https://unchainedcrypto.com/feed/|1
+c|Chainalysis Blog|https://www.chainalysis.com/blog/feed/|0
+c|Elliptic Blog|https://www.elliptic.co/blog/rss.xml|0
+c|SlowMist|https://slowmist.medium.com/feed|0
+c|CertiK|https://medium.com/feed/certik|0
+c|PeckShield|https://peckshield.medium.com/feed|0
+c|Immunefi|https://medium.com/feed/immunefi|0
+c|Hacken|https://medium.com/feed/hackenio|0
+c|OpenZeppelin|https://blog.openzeppelin.com/rss/|0
+c|Trail of Bits|https://blog.trailofbits.com/feed/|0
+c|Ethereum Foundation|https://blog.ethereum.org/feed.xml|1
+c|Binance Blog|https://www.binance.com/en/blog/rss|1
+c|Coinbase Blog|https://www.coinbase.com/blog/rss.xml|1
+c|Kraken Blog|https://blog.kraken.com/feed|1
+c|MetaMask Blog|https://metamask.io/news/rss.xml|1
+c|Ledger Blog|https://www.ledger.com/blog/feed|1
+c|Cyvers|https://medium.com/feed/@cyversalerts|0
+c|ScamSniffer|https://scamsniffer.medium.com/feed|0
+c|Web3 is Going Great|https://web3isgoinggreat.com/feed|0
+c|CoinTelegraph Altcoin|https://cointelegraph.com/rss/tag/altcoin|1
+c|The Defiant DeFi|https://thedefiant.io/api/feed|1
+c|Bitcoin Optech|https://bitcoinops.org/feed.xml|0
+v|CISA Advisories|https://www.cisa.gov/cybersecurity-advisories/all.xml|0
+v|CISA ICS Advisories|https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml|0
+v|NVD Recent CVEs|https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml|0
+v|Exploit-DB|https://www.exploit-db.com/rss.xml|0
+v|Packet Storm Files|https://rss.packetstormsecurity.com/files/|0
+v|Packet Storm News|https://rss.packetstormsecurity.com/news/|0
+v|Zero Day Initiative Published|https://www.zerodayinitiative.com/rss/published/|0
+v|Zero Day Initiative Upcoming|https://www.zerodayinitiative.com/rss/upcoming/|0
+v|CERT/CC Vulnerability Notes|https://www.kb.cert.org/vuls/atomfeed/|0
+v|SANS Internet Storm Center|https://isc.sans.edu/rssfeed_full.xml|0
+v|NCSC UK|https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml|0
+v|CERT-EU Advisories|https://cert.europa.eu/publications/security-advisories-rss|0
+v|CERT-FR|https://www.cert.ssi.gouv.fr/feed/|0
+v|JPCERT/CC|https://www.jpcert.or.jp/rss/jpcert-en.rdf|0
+v|Canadian Centre for Cyber Security|https://www.cyber.gc.ca/api/cccs/rss/v1/get?feed=alerts_advisories&lang=en|0
+v|Australian Cyber Security Centre|https://www.cyber.gov.au/rss/news|0
+v|Cisco Security Advisories|https://sec.cloudapps.cisco.com/security/center/psirtrss20/CiscoSecurityAdvisory.xml|0
+v|FortiGuard PSIRT|https://www.fortiguard.com/rss/ir.xml|0
+v|Microsoft MSRC|https://msrc.microsoft.com/blog/feed|0
+v|Apple Security Updates|https://support.apple.com/en-us/rss/securityupdates.rss|0
+v|Chrome Releases|https://chromereleases.googleblog.com/feeds/posts/default|0
+v|Mozilla Security Blog|https://blog.mozilla.org/security/feed/|0
+v|Ubuntu Security Notices|https://ubuntu.com/security/notices/rss.xml|0
+v|Red Hat Security Blog|https://access.redhat.com/blogs/766093/feed|0
+v|VMware Security|https://blogs.vmware.com/security/feed|0
+v|AWS Security Bulletins|https://aws.amazon.com/security/security-bulletins/feed/|0
+v|AWS Security Blog|https://aws.amazon.com/blogs/security/feed/|0
+v|Kubernetes CVE Feed|https://kubernetes.io/docs/reference/issues-security/official-cve-feed/index.xml|0
+v|Node.js Vulnerabilities|https://nodejs.org/en/feed/vulnerability.xml|0
+v|Drupal Security Advisories|https://www.drupal.org/security/rss.xml|0
+v|Ruby Security Announcements|https://www.ruby-lang.org/en/feeds/security-announcements.rss|0
+v|Vulners|https://vulners.com/rss.xml|0
+v|CVE Feed|https://cvefeed.io/rssfeed/latest.xml|0
+v|CVE Details Critical|https://www.cvedetails.com/vulnerability-feed.php?vendor_id=0&product_id=0&version_id=0&orderby=3&cvssscoremin=7|0
+v|oss-security|https://seclists.org/rss/oss-sec.rss|0
+v|Full Disclosure|https://seclists.org/rss/fulldisclosure.rss|0
+v|Bugtraq|https://seclists.org/rss/bugtraq.rss|0
+v|WPScan Vulnerabilities|https://wpscan.com/blog/feed/|0
+v|Wordfence Vulnerabilities|https://www.wordfence.com/blog/feed/|0
+v|Patchstack|https://patchstack.com/feed/|0
+v|Android Developers Blog|https://android-developers.googleblog.com/feeds/posts/default|0
+v|Google Online Security Blog|https://security.googleblog.com/feeds/posts/default|0
+v|Google Cloud Threat Intelligence|https://cloud.google.com/blog/topics/threat-intelligence/rss/|0
+v|Qualys Threat Research|https://blog.qualys.com/feed|0
+v|Tenable Blog|https://www.tenable.com/blog/feed|0
+v|Rapid7 Blog|https://blog.rapid7.com/rss/|0
+v|GrapheneOS Releases|https://grapheneos.org/releases.atom|0
+v|LineageOS Blog|https://lineageos.org/blog/index.xml|0
+v|Mozilla Security Advisories|https://www.mozilla.org/security/advisories/rss|0
+v|PHP Security|https://www.php.net/feed.atom|1
+v|Django Security|https://www.djangoproject.com/rss/weblog/|1
+v|Spring Security|https://spring.io/security.atom|0
+v|Apache Security|https://www.apache.org/security/rss.xml|0
+v|Jenkins Security|https://www.jenkins.io/security/advisories/rss.xml|0
+v|GitLab Security Releases|https://about.gitlab.com/atom.xml|1
+v|Splunk Security Advisories|https://advisory.splunk.com/rss|0
+v|Ivanti Security|https://www.ivanti.com/blog/rss.xml|0
+v|Palo Alto Security Advisories|https://security.paloaltonetworks.com/rss.xml|0
+v|SonicWall PSIRT|https://psirt.global.sonicwall.com/rss|0
+v|Juniper SIRT|https://kb.juniper.net/InfoCenter/index?page=rss&channel=SECURITY_ADVISORIES|0
+v|Adobe Security Bulletins|https://helpx.adobe.com/security/feed.rss|0
+v|Oracle Critical Patch Updates|https://www.oracle.com/ocom/groups/public/documents/webcontent/security-alerts-rss.xml|0
+v|SAP Security Notes|https://www.sap.com/feed/security.xml|0
+v|ZDI Advisories|https://www.zerodayinitiative.com/rss/advisories/|0
+v|Snyk Vuln DB|https://snyk.io/blog/feed/|0
+v|GitHub Advisory DB|https://github.com/advisories.atom|0
+v|osv.dev|https://osv.dev/feed.xml|0
+r|Google Project Zero|https://googleprojectzero.blogspot.com/feeds/posts/default|0
+r|Google TAG|https://blog.google/threat-analysis-group/rss/|0
+r|Microsoft Security Blog|https://www.microsoft.com/en-us/security/blog/feed/|0
+r|Mandiant|https://www.mandiant.com/resources/blog/rss.xml|0
+r|CrowdStrike|https://www.crowdstrike.com/blog/feed/|0
+r|SentinelOne Labs|https://www.sentinelone.com/blog/feed/|0
+r|Proofpoint Threat Insight|https://www.proofpoint.com/us/rss.xml|0
+r|Fortinet Threat Research|https://feeds.fortinet.com/fortinet/blog/threat-research|0
+r|Check Point Research|https://research.checkpoint.com/feed/|0
+r|Palo Alto Unit 42|https://unit42.paloaltonetworks.com/feed/|0
+r|Cisco Talos|https://blog.talosintelligence.com/rss/|0
+r|Securelist Kaspersky|https://securelist.com/feed/|0
+r|ESET WeLiveSecurity|https://www.welivesecurity.com/en/rss/feed/|0
+r|Trend Micro Research|https://feeds.feedburner.com/TrendMicroResearch|0
+r|Malwarebytes Labs|https://www.malwarebytes.com/blog/feed/index.xml|0
+r|Bitdefender Labs|https://www.bitdefender.com/blog/api/rss/labs/|0
+r|Avast Decoded|https://decoded.avast.io/feed/|0
+r|McAfee Labs|https://www.mcafee.com/blogs/feed/|0
+r|Trellix|https://www.trellix.com/blogs/feed/|0
+r|Zscaler ThreatLabz|https://www.zscaler.com/blogs/feeds/security-research|0
+r|Netskope|https://www.netskope.com/feed|0
+r|CyberArk Threat Research|https://www.cyberark.com/resources/threat-research-blog/feed|0
+r|Varonis|https://www.varonis.com/blog/rss.xml|0
+r|Imperva|https://www.imperva.com/blog/feed/|0
+r|Cloudflare Security|https://blog.cloudflare.com/tag/security/rss/|0
+r|Radware|https://www.radware.com/blog/feed/|0
+r|Sucuri|https://blog.sucuri.net/feed|0
+r|Snyk Blog|https://snyk.io/blog/feed/|0
+r|GitHub Security Blog|https://github.blog/security/feed/|0
+r|JFrog Security Research|https://jfrog.com/blog/feed/|0
+r|Checkmarx|https://checkmarx.com/feed/|0
+r|Sonatype|https://www.sonatype.com/blog/rss.xml|0
+r|Socket|https://socket.dev/api/blog/feed.atom|0
+r|ReversingLabs|https://www.reversinglabs.com/blog/rss.xml|0
+r|Mend|https://www.mend.io/feed/|0
+r|Aqua Security|https://blog.aquasec.com/rss.xml|0
+r|Wiz|https://www.wiz.io/feed/rss.xml|0
+r|Orca Security|https://orca.security/resources/blog/feed/|0
+r|Sysdig|https://sysdig.com/blog/feed/|0
+r|Red Canary|https://redcanary.com/blog/feed/|0
+r|Huntress|https://www.huntress.com/blog/rss.xml|0
+r|Elastic Security Labs|https://www.elastic.co/security-labs/rss/feed.xml|0
+r|Volexity|https://www.volexity.com/blog/feed/|0
+r|Group-IB|https://www.group-ib.com/blog/feed/|0
+r|Intezer|https://intezer.com/blog/feed/|0
+r|Cybereason|https://www.cybereason.com/blog/rss.xml|0
+r|Recorded Future Research|https://www.recordedfuture.com/feed|0
+r|ThreatFabric|https://www.threatfabric.com/blogs/rss.xml|0
+r|Any.Run|https://any.run/cybersecurity-blog/feed/|0
+r|VirusTotal Blog|https://blog.virustotal.com/feeds/posts/default|0
+r|abuse.ch|https://abuse.ch/blog/index.xml|0
+r|Malware Traffic Analysis|https://www.malware-traffic-analysis.net/blog-entries.rss|0
+r|Dragos|https://www.dragos.com/blog/feed/|0
+r|Claroty Team82|https://claroty.com/blog/feed|0
+r|Forescout|https://www.forescout.com/blog/feed/|0
+r|NowSecure|https://www.nowsecure.com/blog/feed/|0
+r|Zimperium|https://www.zimperium.com/blog/feed/|0
+r|Lookout|https://www.lookout.com/blog/feed|0
+r|Quarkslab|https://blog.quarkslab.com/feeds/all.atom.xml|0
+r|Objective-See|https://objective-see.org/rss.xml|0
+r|Jamf Threat Labs|https://www.jamf.com/blog/rss/|0
+r|PortSwigger Research|https://portswigger.net/research/rss|0
+r|HackerOne|https://www.hackerone.com/blog.rss|0
+r|Bugcrowd|https://www.bugcrowd.com/blog/feed/|0
+r|Intigriti|https://blog.intigriti.com/feed/|0
+r|Pentest Partners|https://www.pentestpartners.com/security-blog/feed/|0
+r|Black Hills InfoSec|https://www.blackhillsinfosec.com/feed/|0
+r|TrustedSec|https://trustedsec.com/feed|0
+r|SpecterOps|https://posts.specterops.io/feed|0
+r|Outflank|https://outflank.nl/blog/feed/|0
+r|OffSec|https://www.offsec.com/feed/|0
+r|Kali Linux|https://www.kali.org/rss.xml|0
+r|OWASP|https://owasp.org/feed.xml|0
+r|ZAP|https://www.zaproxy.org/feed.xml|0
+r|Hexacorn|https://www.hexacorn.com/blog/feed/|0
+r|GitHub Security Lab|https://github.blog/tag/github-security-lab/feed/|0
+r|Acronis Threat Research|https://www.acronis.com/en-us/blog/rss/|0
+r|Cloud Security Alliance|https://cloudsecurityalliance.org/blog/feed/|0
+r|Sophos X-Ops|https://news.sophos.com/en-us/category/threat-research/feed/|0
+r|Symantec Threat Intelligence|https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/feed|0
+r|Positive Technologies|https://global.ptsecurity.com/analytics/rss|0
+r|Okta Security|https://sec.okta.com/feed|0
+r|Akamai Security Research|https://www.akamai.com/blog/security-research/rss|0
+r|Veracode|https://www.veracode.com/blog/feed|0
+r|F5 Labs|https://www.f5.com/labs/rss.xml|0
+r|Arctic Wolf|https://arcticwolf.com/resources/blog/feed/|0
+r|Sekoia|https://blog.sekoia.io/feed/|0
+r|Securonix|https://www.securonix.com/blog/feed/|0
+r|Sophos News|https://news.sophos.com/en-us/feed/|0
+r|Kaspersky Blog|https://www.kaspersky.com/blog/feed/|0
+r|Avira Blog|https://www.avira.com/en/blog/feed|0
+r|G Data Security|https://www.gdatasoftware.com/blog/rss|0

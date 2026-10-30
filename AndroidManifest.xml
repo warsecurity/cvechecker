@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.cvewatch.app" android:versionCode="8" android:versionName="0.8">
+  <uses-permission android:name="android.permission.INTERNET"/>
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+  <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+  <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+  <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC"/>
+  <uses-permission android:name="android.permission.WAKE_LOCK"/>
+  <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+  <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"/>
+  <application android:label="CVE Checker" android:icon="@mipmap/ic_launcher" android:roundIcon="@mipmap/ic_launcher_round" android:largeHeap="true" android:allowBackup="false" android:theme="@style/AppTheme">
+    <meta-data android:name="xposedmodule" android:value="true"/>
+    <meta-data android:name="xposeddescription" android:value="Runs CVE scans inside system_server so notifications are not killed"/>
+    <meta-data android:name="xposedminversion" android:value="93"/>
+    <meta-data android:name="xposedscope" android:resource="@array/xposed_scope"/>
+    <activity android:name=".MainActivity" android:exported="true" android:configChanges="orientation|screenSize|keyboardHidden">
+      <intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/></intent-filter>
+    </activity>
+    <service android:name=".SyncService" android:exported="false" android:foregroundServiceType="dataSync"/>
+    <service android:name=".SyncJob" android:exported="false" android:permission="android.permission.BIND_JOB_SERVICE"/>
+    <provider android:name=".ConfigProvider" android:authorities="com.cvewatch.app.cfg" android:exported="true"/>
+  </application>
+</manifest>
